@@ -2,7 +2,7 @@
 A simple REST API built with Flask
 
 Functionalities:
-* GET - get record from database
+* GET - get a record from database / get all key values from database
 * POST - post record to database
 * PUT - update record in database
 * DELETE - delete record in database 
