@@ -1,5 +1,5 @@
 # REST-API
-A simple REST API built with Flask
+A simple REST API built with Flask and SQLite
 
 Functionalities:
 * GET - get a record from database / get all key values from database
@@ -12,7 +12,7 @@ Developed on Python 3.8
 
 Tested on Nginx server
 
-Download required packages with
+Download required packages on your server
 ```
 pip install -r requirements.txt
 ```
