@@ -1,5 +1,5 @@
 # RESTful-API
-A simple REST API built with Flask and SQLite
+RESTful API built with Flask and SQLite3
 
 Functionalities:
 * GET - get a record from database / get all key values from database
