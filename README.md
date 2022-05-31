@@ -1,4 +1,4 @@
-# REST-API
+# RESTful-API
 A simple REST API built with Flask and SQLite
 
 Functionalities:
